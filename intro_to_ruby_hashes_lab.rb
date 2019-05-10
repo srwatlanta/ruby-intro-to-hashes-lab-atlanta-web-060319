@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
- actors = {}
+ actors = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
